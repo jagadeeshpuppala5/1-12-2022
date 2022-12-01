@@ -1,0 +1,15 @@
+types of data types in java script 
+
+two types 
+primitive adn non primitive
+
+Primitive data types
+	number (25,23,1,4,123.43)
+	boolean (true,false)
+	string (java script, react, angular)
+	nill (null)
+	undefined ( )
+
+Non Primitive 
+	object {key:value, key:value, key:value...}
+	array [1,2,3,4]
